@@ -33,3 +33,11 @@ dict1 ={"Hello":2, "World":3, 5:7, 7.1:1.2};
 print("TYpe of dict1 is :",type(dict1));
 print("Map or dictionary values are :",dict1);
 print(dict1["Hello"]);
+
+
+
+
+
+
+
+
