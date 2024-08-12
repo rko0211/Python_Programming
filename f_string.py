@@ -13,3 +13,8 @@ print(txt1.format(country, name));
 price =28.896678;
 txt2 = f"The price of this value is {price:.2f}"    # syntax of the f string 
 print(txt2)
+
+ff = 10;
+t = f"hello {ff}";
+print(t);
+
