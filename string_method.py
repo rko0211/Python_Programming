@@ -32,3 +32,6 @@ print(len(heading.center(50)));
 
 print(heading.istitle());
 
+
+
+

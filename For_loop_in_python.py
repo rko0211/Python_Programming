@@ -22,3 +22,5 @@ s=str(input("Enter the string :"))
 for i in s:
     print(i)
 
+for i in range(0,102,2):
+    print(i);
