@@ -24,3 +24,6 @@ isLesser();
 findgeometricMean(5,6);
 isGreater(a,b);
 isLesser();
+
+isLesser? ; # Print documentation of that function if it exist
+isLesser?? ; # Print documentation as well as implimentation of that function 
