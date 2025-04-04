@@ -24,6 +24,7 @@ isLesser();
 findgeometricMean(5,6);
 isGreater(a,b);
 isLesser();
-
+help(isLesser);  # Print documentation of that function if it exist
+# this bellow are used in jupyter notebook or IPython 
 isLesser? ; # Print documentation of that function if it exist
 isLesser?? ; # Print documentation as well as implimentation of that function 
